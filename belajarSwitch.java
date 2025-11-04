@@ -62,7 +62,7 @@ public class belajarSwitch {
                     break;
             }
          } else {
-            System.out.println("Kamu Robot Anjay");
+            System.out.println("Hayolo, Ini Program Buat Manusia Kok Kamu Coba Coba");
         }
         ns.close();
     }
